@@ -3,4 +3,7 @@ blue
 green
 yellow
 white
+orange
+gray
+purple
 
