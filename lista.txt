@@ -6,4 +6,6 @@ white
 orange
 gray
 purple
-
+color4
+color5
+color6
